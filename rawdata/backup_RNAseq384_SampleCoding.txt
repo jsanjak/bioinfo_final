@@ -1,0 +1,1 @@
+../../rawdata/backup_RNAseq384_SampleCoding.txt
