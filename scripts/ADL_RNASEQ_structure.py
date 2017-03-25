@@ -16,8 +16,6 @@ def makedir(base,sample,experiment):
 
 def main():
     home=os.getcwd()
-    #DNA seq stuff
-    
     #RNA seq stuff
     path = "rawdata"
     finfo = open(path+"/RNAseq384_SampleCoding.txt","r")
